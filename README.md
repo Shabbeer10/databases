@@ -13,11 +13,11 @@ Welcome to my **Databases** repository! 🚀 This repository contains my notes, 
 
 ## 🛠️ Technologies & Tools
 
-- **SQL:** PostgreSQL, MySQL, SQL Server
-- **NoSQL:** MongoDB, Redis
-- **ORMs:** Mongoose (MongoDB), Sequelize (SQL)
-- **Query Tools:** pgAdmin, MySQL Workbench, MongoDB Compass
-- **Cloud Databases:** AWS RDS, Firebase, DynamoDB
+- **SQL:** MySQL, SQL Server
+- **NoSQL:** MongoDB
+- **ORMs:** Mongoose (MongoDB)
+- **Query Tools:** MySQL Workbench
+- **Cloud Databases:** Firebase
 
 ## 📖 Learning Goals
 
@@ -32,13 +32,13 @@ Welcome to my **Databases** repository! 🚀 This repository contains my notes, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/database-learning.git
+   git clone https://github.com/shabbeer10/database.git
    ```
 
 2. Navigate to the repo:
 
    ```bash
-   cd database-learning
+   cd database
    ```
 
 3. Explore different folders and run practice queries!
@@ -49,7 +49,3 @@ Welcome to my **Databases** repository! 🚀 This repository contains my notes, 
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 - [MongoDB University](https://university.mongodb.com/)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
-
-## 📢 Contributions
-
-This is a personal learning repository, but if you have any suggestions or resources, feel free to open an issue or submit a pull request!
